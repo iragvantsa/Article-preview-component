@@ -17,6 +17,7 @@
 ## My process
 
 It was fun. Learned how to create triangle shaped div. Also, struggled to invert the color of SVG file. Couldn't make it at the end but still learned something new.
+Oh, and I used mobile firts approach.
 
 ### Built with
 
